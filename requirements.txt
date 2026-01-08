@@ -1,0 +1,28 @@
+# Core FastAPI and server dependencies
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# AI and ML dependencies
+openai
+langchain
+langchain-openai
+chromadb
+
+# PDF processing
+PyPDF2
+python-multipart
+
+# Data validation and database
+pydantic
+pydantic-settings
+sqlalchemy[asyncio]
+aiosqlite
+
+# Development and testing
+pytest
+httpx
+numpy
+requests
+beautifulsoup4
+tiktoken
