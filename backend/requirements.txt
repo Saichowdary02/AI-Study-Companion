@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+chromadb
+pydantic
+python-multipart
+openai
+PyPDF2
+python-dotenv
+langchain
+tiktoken
+requests
+beautifulsoup4
+pytest
+httpx
+numpy
